@@ -5,6 +5,9 @@ In the end, recorded frames can be found in the folders: RGB_images, Depth_data,
 Depth is saved to JPEG images after a normalization.
 Two Kinect cameras were placed at different positions to guarantee more diversity in the angles of taken images (scalability).
 
+![Kinects' Positions.](scene.png)
+
+
 # Requirements
   - Microsoft Kinect v1
   - Windows 10
