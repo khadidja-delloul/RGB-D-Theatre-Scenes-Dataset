@@ -19,3 +19,10 @@ Two Kinect cameras were placed at different positions to guarantee more diversit
   - For sequences: the folder name contains the number of the camera, the scene number, then the take number <C..S..T..>
   - For actions: the folder name contains the same information as sequence except we added the number of the actor <C..P..A..T..> 
  
+ # Download Links
+ Here are links to download raw data:
+  - [Camera 1 Data](https://drive.google.com/drive/folders/19AHzZdrccA3IBmkZ-UQ_BIknK_4EozUo?usp=sharing)
+  - [Camera 2 Data](https://drive.google.com/drive/folders/1aDHcl8zsBLjVrAiwIfAsq5yq3ypEW7jJ?usp=sharing)
+ 
+ 
+ 
