@@ -23,10 +23,9 @@ Two Kinect cameras were placed at different positions to guarantee more diversit
   - For actions: the folder name contains the same information as sequence except we added the number of the actor <C..P..A..T..> 
  
  # Download Links
- Here are links to download raw data:
+ Here are links to download raw data, and the link for selected and annotated images for the task of image captioning:
   - [Camera 1 Data](https://drive.google.com/drive/folders/19AHzZdrccA3IBmkZ-UQ_BIknK_4EozUo?usp=sharing)
   - [Camera 2 Data](https://drive.google.com/drive/folders/1aDHcl8zsBLjVrAiwIfAsq5yq3ypEW7jJ?usp=sharing)
-And the link for selected and annotated images for the task of image captioning:
   - [Selected Images](https://drive.google.com/drive/folders/1h24jRsH9dGBxGOhaJq1W4ujKGT9AvtqQ?usp=sharing) 
  
  
