@@ -26,6 +26,8 @@ Two Kinect cameras were placed at different positions to guarantee more diversit
  Here are links to download raw data:
   - [Camera 1 Data](https://drive.google.com/drive/folders/19AHzZdrccA3IBmkZ-UQ_BIknK_4EozUo?usp=sharing)
   - [Camera 2 Data](https://drive.google.com/drive/folders/1aDHcl8zsBLjVrAiwIfAsq5yq3ypEW7jJ?usp=sharing)
+ And the link for selected and annotated images for the task of image captioning:
+  - [Selected Images](https://drive.google.com/drive/folders/1h24jRsH9dGBxGOhaJq1W4ujKGT9AvtqQ?usp=sharing) 
  
  
  
