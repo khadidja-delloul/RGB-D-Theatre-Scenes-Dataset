@@ -1,8 +1,10 @@
 # RGB-D-Theatre-Scenes-Dataset
-In this repository you will find a python code that allowed us to record depth, RGB and Skeletal data using Kinect v1.
+[arXiv Preprint](https://doi.org/10.48550/arXiv.2308.01035)
+
+In this repository, you will find a Python code that allowed us to record depth, RGB, and Skeletal data using Kinect v1.
 You will also find scenarios that were interpreted by a group of computer science students in the auditorium of the University of Sciences and Technologies Houari Boumediene (USTHB), Algeria.
-In the end, recorded frames can be found in the folders: RGB_images, Depth_data, Skeleton_data.
-Depth is saved to JPEG images after a normalization.
+In the end, recorded frames can be found in the folders: RGB_images, Depth_data, and Skeleton_data.
+Depth is saved to JPEG images after normalization.
 Two Kinect cameras were placed at different positions to guarantee more diversity in the angles of taken images.
 
 <img src="Scene.png"  width="250" height="250" />
