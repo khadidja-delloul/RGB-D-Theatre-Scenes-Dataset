@@ -21,8 +21,9 @@ Two Kinect cameras were placed at different positions to guarantee more diversit
  # Notes
  For each recorded scene there are 3 folders: one for depth frames, the second for RGB frames and the third for skeletons.
  The dataset is organized as follows:
-  - For sequences: the folder name contains the number of the camera, the scene number, then the take number <C..S..T..>
-  - For actions: the folder name contains the same information as sequence except we added the number of the actor <C..P..A..T..> 
+  - For sequences: the folder name contains the number of the camera C, the scene number S, then the take number T <C..S..T..>
+  - For actions: the folder name contains the same information as sequence except we added the number of the actor P <C..P..A..T..>
+
  
  # Download Links
  Here are links to download raw data, and the link for selected and annotated images for the task of image captioning:
