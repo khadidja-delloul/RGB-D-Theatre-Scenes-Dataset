@@ -24,6 +24,25 @@ Two Kinect cameras were placed at different positions to guarantee more diversit
   - For sequences: the folder name contains the number of the camera C, the scene number S, then the take number T <C..S..T..>
   - For actions: the folder name contains the same information as sequence except we added the number of the actor P <C..P..A..T..>
 
+# Action classes
+This dataset provides 36 action classes including single person actions and two-person interactions. The actions are labeled as shown bellow:
+
+|Action label|      Action class     |Action label|         Action class         |Action label|                Action class               |
+|------------|-----------------------|------------|------------------------------|------------|-------------------------------------------|
+|     O1     | Standing up           |     13     | Putting on a jacket          |     25     | Salute                                    |
+|     O2     | Bowing                |     14     | Taking off a jacket          |     26     | Putting palms together                    |
+|     O3     | Sitting down          |     15     | Putting on shoes             |     27     | Falling down                              |
+|     O4     | Drinking              |     16     | Taking off on shoes          |     28     | Fan self                                  |
+|     O5     | Eating                |     17     | A person walking             |     29     | Pushing a person                          |
+|     O6     | Dropping something    |     18     | Handwaving                   |     30     | Punch/slap a person                       |
+|     O7     | Picking up something  |     19     | Touch head                   |     31     | Two persons hugging                       |
+|     O8     | Throwing something    |     20     | Phone call                   |     32     | Giving something to someone               |
+|     O9     | Clapping              |     21     | Jumpping                     |     33     | Shaking hands                             |
+|     10     | Reading               |     22     | Kicking something or someone |     34     | High five                                 |
+|     11     | Writing               |     23     | Cheking time on a wristwatch |     35     | Two persons walking towards each other    |
+|     12     | Tearing up paper      |     24     | Wipe face                    |     36     | Two persons walking apart from each other |
+
+
  
  # Download Links
  Here are links to download raw data, and the link for selected and annotated images for the task of image captioning:
