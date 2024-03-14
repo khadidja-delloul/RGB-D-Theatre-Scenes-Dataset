@@ -29,15 +29,15 @@ This dataset provides 36 action classes including single person actions and two-
 
 |Action label|      Action class     |Action label|         Action class         |Action label|                Action class               |
 |------------|-----------------------|------------|------------------------------|------------|-------------------------------------------|
-|     O1     | Standing up           |     13     | Putting on a jacket          |     25     | Salute                                    |
-|     O2     | Bowing                |     14     | Taking off a jacket          |     26     | Putting palms together                    |
-|     O3     | Sitting down          |     15     | Putting on shoes             |     27     | Falling down                              |
-|     O4     | Drinking              |     16     | Taking off on shoes          |     28     | Fan self                                  |
-|     O5     | Eating                |     17     | A person walking             |     29     | Pushing a person                          |
-|     O6     | Dropping something    |     18     | Handwaving                   |     30     | Punch/slap a person                       |
-|     O7     | Picking up something  |     19     | Touch head                   |     31     | Two persons hugging                       |
-|     O8     | Throwing something    |     20     | Phone call                   |     32     | Giving something to someone               |
-|     O9     | Clapping              |     21     | Jumpping                     |     33     | Shaking hands                             |
+|     01     | Standing up           |     13     | Putting on a jacket          |     25     | Salute                                    |
+|     02     | Bowing                |     14     | Taking off a jacket          |     26     | Putting palms together                    |
+|     03     | Sitting down          |     15     | Putting on shoes             |     27     | Falling down                              |
+|     04     | Drinking              |     16     | Taking off on shoes          |     28     | Fan self                                  |
+|     05     | Eating                |     17     | A person walking             |     29     | Pushing a person                          |
+|     06     | Dropping something    |     18     | Handwaving                   |     30     | Punch/slap a person                       |
+|     07     | Picking up something  |     19     | Touch head                   |     31     | Two persons hugging                       |
+|     08     | Throwing something    |     20     | Phone call                   |     32     | Giving something to someone               |
+|     09     | Clapping              |     21     | Jumpping                     |     33     | Shaking hands                             |
 |     10     | Reading               |     22     | Kicking something or someone |     34     | High five                                 |
 |     11     | Writing               |     23     | Cheking time on a wristwatch |     35     | Two persons walking towards each other    |
 |     12     | Tearing up paper      |     24     | Wipe face                    |     36     | Two persons walking apart from each other |
