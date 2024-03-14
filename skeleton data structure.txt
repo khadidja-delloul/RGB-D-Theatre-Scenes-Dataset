@@ -1,0 +1,28 @@
+number of frames
+number of detected skeletons
+id of the skeleton
+hipcenter
+spine
+head
+head/neck(kinectV2)
+shoulderLeft
+elbowLeft
+wristLeft
+handLeft
+ShoulderRight
+elbowRight
+wristRight
+HandRight
+hipLeft
+kneeLeft
+ankelLeft
+footLeft
+hipRight
+kneeRight
+ankelRight
+footRight
+shoulderCenter
+handLeft/leftThumb(kinect v2)
+handLeft/left hand tip(kinect v2)
+handRight/right Thumb (kinect v2)
+handRight/right hand tip (kinect v2)
